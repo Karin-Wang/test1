@@ -14,8 +14,8 @@ try:
         GPIO.output(led, 1)
         time.sleep(50)
 
-        GPIO.output(led, 0)
-        time.sleep(0.00001)
+        # GPIO.output(led, 0)
+        # time.sleep(0.00001)
         # GPIO.output(TRIG, 0)
         # start = time.time()
         #
